@@ -5,8 +5,8 @@
 **CSE 151B Class Competition - Motion Prediction Network for Autonomous Vehicles**
 
 **Partners:**
-- Jonathan Zamora-Anaya
-- Edward Yang
+- Jonathan Zamora-Anaya [@jonzamora](https://github.com/jonzamora)
+- Edward Yang [@edwardyang12](https://github.com/edwardyang12)
 
 **Final Ranking: 11th out of 58 teams**
 
