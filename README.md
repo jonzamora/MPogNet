@@ -7,3 +7,5 @@
 Students:
 - Jonathan Zamora-Anaya
 - Edward Yang
+
+Note: Final Model Notebook can be found in [`model_notebooks/PogNet3`](https://github.com/jonzamora/MPogNet/blob/final-project/model_notebooks/PogNet3.ipynb)
