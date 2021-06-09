@@ -8,4 +8,8 @@
 - Jonathan Zamora-Anaya
 - Edward Yang
 
+**Final Ranking: 11th out of 58 teams**
+
+**Competition Page:** https://www.kaggle.com/c/cse151b-spring/leaderboard
+
 **Note:** Final Model Notebook can be found in [`model_notebooks/PogNet3`](https://github.com/jonzamora/MPogNet/blob/final-project/model_notebooks/PogNet3.ipynb)
