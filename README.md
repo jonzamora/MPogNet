@@ -1,4 +1,4 @@
-<h1> MPogNet <img src="pog.png" alt="pog" width="50"/></h1>
+# Motion Prediction for Autonomous Vehicles 🚘
 
 ---
 
